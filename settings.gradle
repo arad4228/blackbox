@@ -1,0 +1,3 @@
+rootProject.name = "blackbox"
+include ':app'
+include ':opencv:sdk'
